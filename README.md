@@ -1,4 +1,4 @@
-# Medical_Abstract_Classification
+# Medical_Abstract_Classification :man_health_worker:	
 Most of the academic articles that are related to medical topics seem hard to read for the majority of the population. The reason why, purpose of this project is to generate a model that could divide the article's abstract into parts such as method, objective, and results to read easier. For this model, RNNs, 1-D CNNs, pre-trained, and hybrid models are used. The first models will be tried on 10% of the dataset. After that, the best model will be trained on the full data set.
 
 # Steps of the Project
